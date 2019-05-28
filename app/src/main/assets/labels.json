@@ -1,0 +1,14 @@
+{
+  "AFV": 0,
+  "Rockets": 1,
+  "Bombs": 2,
+  "Missiles": 3,
+  "Artillery": 4,
+  "UAV": 5,
+  "InfantryWeapons": 6,
+  "AirDefence": 7,
+  "SupportVehicles": 8,
+  "SeaVehicles": 9,
+  "Helicopters": 10,
+  "LogisticsVehicle": 11
+}

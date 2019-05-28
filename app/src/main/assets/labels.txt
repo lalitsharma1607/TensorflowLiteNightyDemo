@@ -1,0 +1,12 @@
+Helicopters
+UAV
+InfantryWeapons
+Rockets
+Missiles
+Bombs
+LogisticsVehicle
+AirDefence
+AFV
+SupportVehicles
+Artillery
+SeaVehicles
